@@ -48,8 +48,7 @@ The detection logs are saved in `logs/smoke_with_plate_log.csv` and include:
 - **Plate Number**
 - **Plate Image Path**
 
-<img src="./Log1.png
-  " alt="log1">
+<img src="./Log1.png" alt="log1">
 <img src="./Log2.png" alt="log2">
 
 ---
@@ -60,3 +59,14 @@ The detection logs are saved in `logs/smoke_with_plate_log.csv` and include:
    ```bash
    git clone https://github.com/yourusername/vehicle_emission_detection.git
    cd vehicle_emission_detection
+
+2. Download all the Package from requirement.txt
+3. Train the model with 500-1000 images per class.
+4. Save the model
+5. run python3 real_time_detect.py
+6. Check logs for results.
+
+
+The File Structure Should look like this 
+<img src="" alt="File Structure">
+
