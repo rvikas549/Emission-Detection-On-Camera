@@ -48,8 +48,9 @@ The detection logs are saved in `logs/smoke_with_plate_log.csv` and include:
 - **Plate Number**
 - **Plate Image Path**
 
-![Log Screenshot 1](logs/Screenshot_1.png)
-![Log Screenshot 2](logs/Screenshot_2.png)
+<img src="./Log1.png
+  " alt="log1">
+<img src="./Log2.png" alt="log2">
 
 ---
 
