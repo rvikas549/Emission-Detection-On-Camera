@@ -48,8 +48,8 @@ The detection logs are saved in `logs/smoke_with_plate_log.csv` and include:
 - **Plate Number**
 - **Plate Image Path**
 
-<img src="./Log1.png" alt="log1">
-<img src="./Log2.png" alt="log2">
+<img src="./Log1.png" alt="log1" width="350px">
+<img src="./Log2.png" alt="log2" width="350px">
 
 ---
 
@@ -68,5 +68,7 @@ The detection logs are saved in `logs/smoke_with_plate_log.csv` and include:
 
 
 The File Structure Should look like this 
-<img src="" alt="File Structure">
+<img src="./struct.png" alt="File Structure" width="350px">
 
+---
+Thank You.
