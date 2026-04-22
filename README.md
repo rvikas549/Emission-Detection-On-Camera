@@ -67,7 +67,7 @@ The detection logs are saved in `logs/smoke_with_plate_log.csv` and include:
 6. Check logs for results.
 
 
-The File Structure Should look like this 
+The File Structure Should look like this
 <img src="./struct.png" alt="File Structure" height="550px" width="150px">
 
 ---
